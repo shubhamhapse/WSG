@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\android-studio\\WSG new\\WSG\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_start_screen.xml",
+        "source": "F:\\android-studio\\WSG new\\WSG\\app\\src\\main\\res\\menu\\menu_start_screen.xml"
+    },
+    {
+        "merged": "F:\\android-studio\\WSG new\\WSG\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_for_all.xml",
+        "source": "F:\\android-studio\\WSG new\\WSG\\app\\src\\main\\res\\menu\\options_for_all.xml"
+    },
+    {
+        "merged": "F:\\android-studio\\WSG new\\WSG\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_for_all.xml",
+        "source": "F:\\android-studio\\WSG new\\WSG\\app\\src\\main\\res\\menu\\drawer_for_all.xml"
+    }
+]
